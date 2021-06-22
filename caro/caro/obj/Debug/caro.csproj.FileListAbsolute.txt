@@ -1,0 +1,10 @@
+C:\Users\MINH TRIEU\source\repos\caro\caro\bin\Debug\caro.exe.config
+C:\Users\MINH TRIEU\source\repos\caro\caro\bin\Debug\caro.exe
+C:\Users\MINH TRIEU\source\repos\caro\caro\bin\Debug\caro.pdb
+C:\Users\MINH TRIEU\source\repos\caro\caro\obj\Debug\caro.csprojAssemblyReference.cache
+C:\Users\MINH TRIEU\source\repos\caro\caro\obj\Debug\caro.Form1.resources
+C:\Users\MINH TRIEU\source\repos\caro\caro\obj\Debug\caro.Properties.Resources.resources
+C:\Users\MINH TRIEU\source\repos\caro\caro\obj\Debug\caro.csproj.GenerateResource.cache
+C:\Users\MINH TRIEU\source\repos\caro\caro\obj\Debug\caro.csproj.CoreCompileInputs.cache
+C:\Users\MINH TRIEU\source\repos\caro\caro\obj\Debug\caro.exe
+C:\Users\MINH TRIEU\source\repos\caro\caro\obj\Debug\caro.pdb
